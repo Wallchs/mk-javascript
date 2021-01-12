@@ -1,6 +1,6 @@
 function calcTime() {
     // create a reference to page's elements
-    let inHourBrazil = document.querySelector('#inHourBrazil');
+    let inHourBrazil  = document.querySelector('#inHourBrazil');
     let outHourFrance = document.querySelector('#outHourFrance');
 
     // take and convert field content inHourBrazil
